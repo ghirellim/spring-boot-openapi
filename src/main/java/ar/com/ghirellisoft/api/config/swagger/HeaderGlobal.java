@@ -18,9 +18,15 @@ public enum HeaderGlobal {
     HEADER_SUCURSAL(Constants.HEADER_SUCURSAL, Constants.HEADER_SUCURSAL_DESCRIPTION);
 
 
+    private HeaderGlobal(String name, String description) {
+        this.name = name;
+        this.description = description;
+    }
+
+
     @Override
     public String toString() {
-        return String.valueOf(this.getName());
+        return String.valueOf(this.name);
     }
 
     @Getter
