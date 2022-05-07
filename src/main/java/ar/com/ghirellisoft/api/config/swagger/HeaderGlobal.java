@@ -2,9 +2,7 @@ package ar.com.ghirellisoft.api.config.swagger;
 
 
 import lombok.Getter;
-import lombok.RequiredArgsConstructor;
 
-@RequiredArgsConstructor
 public enum HeaderGlobal {
     HEADER_SESSION(Constants.HEADER_SESSION,Constants.HEADER_SESSION_DESCRIPTION ),
     HEADER_ID_PROCESO(Constants.HEADER_ID_PROCESO,Constants.HEADER_ID_PROCESO_DESCRIPTION ),
