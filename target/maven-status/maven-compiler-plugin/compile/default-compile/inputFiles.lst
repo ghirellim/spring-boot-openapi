@@ -1,0 +1,10 @@
+/workspace/spring-boot-openapi/src/main/java/ar/com/ghirellisoft/api/Application.java
+/workspace/spring-boot-openapi/src/main/java/ar/com/ghirellisoft/api/config/profile/ProfileDev.java
+/workspace/spring-boot-openapi/src/main/java/ar/com/ghirellisoft/api/config/Logger.java
+/workspace/spring-boot-openapi/src/main/java/ar/com/ghirellisoft/api/config/APIConfig.java
+/workspace/spring-boot-openapi/src/main/java/ar/com/ghirellisoft/api/config/profile/ProfileProd.java
+/workspace/spring-boot-openapi/src/main/java/ar/com/ghirellisoft/api/config/swagger/SwaggerHeaderDefault.java
+/workspace/spring-boot-openapi/src/main/java/ar/com/ghirellisoft/api/service/DefaultServices.java
+/workspace/spring-boot-openapi/src/main/java/ar/com/ghirellisoft/api/config/OpenAPIConfig.java
+/workspace/spring-boot-openapi/src/main/java/ar/com/ghirellisoft/api/config/swagger/HeaderGlobal.java
+/workspace/spring-boot-openapi/src/main/java/ar/com/ghirellisoft/api/controller/DefaultController.java

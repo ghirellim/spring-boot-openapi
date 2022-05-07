@@ -1,0 +1,11 @@
+ar/com/ghirellisoft/api/config/OpenAPIConfig.class
+ar/com/ghirellisoft/api/config/profile/ProfileDev.class
+ar/com/ghirellisoft/api/service/DefaultServices.class
+ar/com/ghirellisoft/api/config/swagger/SwaggerHeaderDefault.class
+ar/com/ghirellisoft/api/config/swagger/HeaderGlobal$Constants.class
+ar/com/ghirellisoft/api/controller/DefaultController.class
+ar/com/ghirellisoft/api/config/Logger.class
+ar/com/ghirellisoft/api/config/APIConfig.class
+ar/com/ghirellisoft/api/Application.class
+ar/com/ghirellisoft/api/config/profile/ProfileProd.class
+ar/com/ghirellisoft/api/config/swagger/HeaderGlobal.class
